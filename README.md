@@ -1,3 +1,15 @@
+# This project was build by the help of (adrianhajdin) who was made the project and with the help of i was able to build
+
+# This kind of project this was my first project with (React).
+
+# in this project i learn how to manage the api endpoint and how to fetch the data from third party api like Rapid Api
+
+# this was the good learning from the Developer
+
+# Tech stack (Mern)
+
+# Api (Rapid API)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
